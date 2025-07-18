@@ -1,1 +1,2 @@
-git practice stared
+git practice
+git practice started on 18th july
