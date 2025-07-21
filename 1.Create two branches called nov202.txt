@@ -1,0 +1,55 @@
+1.Create two branches called nov2025 and dec205 ( gitcheckout –b “nov2025” -> git push same for dec2025)
+2.Git checkout nov2025 -> to make it current branch
+3.Add any file and commit and push thatshould go to the nov2025 branch
+4.Change the branch by using git checkout dec2025
+5.You should not see the file that you created for the nov3025 branch
+●
+N.B.: git checkout –b <branchname> creates and switch branch
+git checkout    <branchname>  only switches branch
+
+Exercise -6:
+ 
+Create a file called gitprac.txt in line number 1 of that file write Git practice and push it to the remote repo.
+ 
+I the remote repo edit that file through browser and  change the text to Git practice  started and commit the change.
+In local copy change the text to Git practice begun and commit to local repo.
+Do a git pull and you will see a merge conflict.
+Resolve the conflict and push the modified file to the remote repo.
+●
+ 
+git tag v1.0
+
+git push origin v1.0
+
+git tag -a v1.1 -m "message new tag"
+ 
+git show v1.1
+ 
+ 
+ 
+git stash: Saves your changes to the stash.
+
+git stash list: Lists all your stashed changes.
+
+git stash show: Shows the changes in the latest stash.
+
+git stash apply: Applies the latest stash (without removing it).
+
+git stash pop: Applies the latest stash and then removes it from the stack.
+
+git stash drop: Removes the latest stash.
+
+git stash clear: Removes all stashes.
+
+Exercise -5:
+ 
+1.Fork out from bmadcode/BMAD-METHODlower 
+GitHub - bmadcode/BMAD-METHOD: Breakthrough Method for Agile Ai Driven Development
+Breakthrough Method for Agile Ai Driven Development - bmadcode/BMAD-METHOD
+ 
+lower your hands
+ 
+
+
+https://github.com/bmadcode/BMAD-METHOD
+ 
