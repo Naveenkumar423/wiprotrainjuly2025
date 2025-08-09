@@ -1,0 +1,12 @@
+2025-08-08T12:24:22.111+05:30 ERROR 2360 --- [logdemo] [http-nio-8080-exec-1] c.w.logdemo.controller.HomeController    : --ERROR log--
+2025-08-08T12:24:22.125+05:30  WARN 2360 --- [logdemo] [http-nio-8080-exec-1] c.w.logdemo.controller.HomeController    : --WARN log--
+2025-08-08T12:26:31.497+05:30 ERROR 2360 --- [logdemo] [http-nio-8080-exec-5] c.w.logdemo.controller.HomeController    : --ERROR log--
+2025-08-08T12:26:31.498+05:30  WARN 2360 --- [logdemo] [http-nio-8080-exec-5] c.w.logdemo.controller.HomeController    : --WARN log--
+2025-08-08T12:26:34.276+05:30 ERROR 2360 --- [logdemo] [http-nio-8080-exec-6] c.w.logdemo.controller.HomeController    : --ERROR log--
+2025-08-08T12:26:34.280+05:30  WARN 2360 --- [logdemo] [http-nio-8080-exec-6] c.w.logdemo.controller.HomeController    : --WARN log--
+2025-08-08T12:26:35.212+05:30 ERROR 2360 --- [logdemo] [http-nio-8080-exec-7] c.w.logdemo.controller.HomeController    : --ERROR log--
+2025-08-08T12:26:35.214+05:30  WARN 2360 --- [logdemo] [http-nio-8080-exec-7] c.w.logdemo.controller.HomeController    : --WARN log--
+2025-08-08T12:26:35.435+05:30 ERROR 2360 --- [logdemo] [http-nio-8080-exec-8] c.w.logdemo.controller.HomeController    : --ERROR log--
+2025-08-08T12:26:35.437+05:30  WARN 2360 --- [logdemo] [http-nio-8080-exec-8] c.w.logdemo.controller.HomeController    : --WARN log--
+2025-08-08T12:29:33.820+05:30 ERROR 2360 --- [logdemo] [http-nio-8080-exec-1] c.w.logdemo.controller.HomeController    : --ERROR--
+2025-08-08T12:29:33.825+05:30  WARN 2360 --- [logdemo] [http-nio-8080-exec-1] c.w.logdemo.controller.HomeController    : --WARN--
