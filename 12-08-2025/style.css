@@ -1,0 +1,30 @@
+/* Container styling */
+.container {
+    width: 400px;
+    height: 200px;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+/* Common styling for both boxes */
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: lightblue;
+    text-align: center;
+    line-height: 100px;
+    font-weight: bold;
+}
+
+/* First box */
+.box1 {
+    background-color: lightgreen;
+    margin: 10px;
+}
+
+/* Second box — positioned using margin */
+.box2 {
+    background-color: lightcoral;
+    margin-left: 150px; /* Pushes it to the right */
+    margin-top: -80px;  /* Moves it upward relative to Box 1 */
+}

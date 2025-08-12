@@ -1,0 +1,29 @@
+/* Universal Selector: applies to all elements */
+* {
+    font-family: Arial, sans-serif;
+    color: blue;
+}
+
+/* Group Selector: applies to both h1 and p */
+h1, p {
+    background-color: lightgray;
+    padding: 10px;
+}
+
+/* Class Selector: applies to elements with class 'highlight' */
+.highlight {
+    background-color: yellow;
+    color: red;
+}
+
+/* ID Selector: applies to element with id 'main-heading' */
+#main-heading {
+    color: green;
+    text-transform: uppercase;
+}
+
+/* Another ID Selector: applies to element with id 'special-item' */
+#special-item {
+    font-weight: bold;
+    color: orange;
+}

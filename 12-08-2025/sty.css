@@ -1,0 +1,11 @@
+/* Styling the div */
+.text-box {
+    width: 300px;
+    height: 150px;
+    border: 2px solid black;
+    background-color: lightyellow;
+    margin-top: 50px;   
+    margin-left: 100px;  
+    padding: 20px;      
+    font-size: 18px;
+}
